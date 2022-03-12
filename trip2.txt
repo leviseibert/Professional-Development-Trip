@@ -1,0 +1,17 @@
+
+                   Professional Development Report
+Trip Length: 4
+Time Departed: 15.00          Time Returned: 12.00
+*************************************************************
+Expenses                             Amount             Covered
+Airfare Expenses:                     0.00                 0.00
+Ground Transportation Expenses:       0.00                80.00
+Mileage Reimbursement:              198.00 miles         105.93
+Parking Expenses:                   126.00                88.36
+Registration Expenses:              895.00               895.00
+Hotel Expenses:                     380.63               375.00
+Food Expenses:                       57.70               156.00
+
+Your expenses were: $1459.33
+Your total allowed expenses were: $1700.29
+You will recieve a check for $240.96
